@@ -1,0 +1,43 @@
+#
+msgid ""
+msgstr "Content-Type: text/plain; charset=utf-8\n"
+
+msgctxt "field:work.configuration,create_date:"
+msgid "Create Date"
+msgstr "Fecha de creación"
+
+msgctxt "field:work.configuration,create_uid:"
+msgid "Create User"
+msgstr "Usuario de creación"
+
+msgctxt "field:work.configuration,id:"
+msgid "ID"
+msgstr "ID"
+
+msgctxt "field:work.configuration,rec_name:"
+msgid "Name"
+msgstr "Nombre"
+
+msgctxt "field:work.configuration,write_date:"
+msgid "Write Date"
+msgstr "Fecha de modificación"
+
+msgctxt "field:work.configuration,write_uid:"
+msgid "Write User"
+msgstr "Usuario de modificación"
+
+msgctxt "model:ir.action,name:act_work_configuration_form"
+msgid "Work Configuration"
+msgstr "Configuración trabajo"
+
+msgctxt "model:ir.ui.menu,name:menu_work_configuration"
+msgid "Work Configuration"
+msgstr "Configuración trabajo"
+
+msgctxt "model:work.configuration,name:"
+msgid "Work Configuration"
+msgstr "Configuración trabajo"
+
+msgctxt "view:work.configuration:"
+msgid "Work Configuration"
+msgstr "Configuración trabajo"
